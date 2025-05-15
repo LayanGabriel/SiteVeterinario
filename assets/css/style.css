@@ -373,5 +373,8 @@ div#contato {
     #sobre div{
         width: 100%;
     }
+    #cards img {
+    width: 200px;
+    }
 
 }
